@@ -1,0 +1,12 @@
+{
+    "watch": [
+        "server.js",
+        "app/lib/",
+        "app/models/"
+    ],
+    "ext": "js,json",
+    "ignore": [
+        "node_modules",
+        ".next"
+    ]
+}
